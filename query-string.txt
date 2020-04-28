@@ -1,0 +1,3 @@
+*****Read the query string in react Apps****
+
+1)npm install query-string
